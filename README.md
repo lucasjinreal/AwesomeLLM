@@ -1,4 +1,4 @@
-<div class="center">
+<div align="center">
     <h1>Awesome GPTs</h1>
 </div>
 
@@ -21,6 +21,16 @@
 
 - *LLaVA*: https://llava.hliu.cc/
 - *MiniGPT4*: https://github.com/Vision-CAIR/MiniGPT-4
+
+
+## LLM SpeedUp
+
+*Engineering on LLMs*
+
+- *DeepSpeed*:
+- *Colossal-AI*:
+- *JAX*:
+
 
 
 Keep updating...
