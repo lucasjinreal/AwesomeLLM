@@ -14,7 +14,7 @@
 - *llama*: https://github.com/facebookresearch/llama
 - *Vicuna*: https://github.com/lm-sys/FastChat
 - *Chinese Vicuna*: https://github.com/lm-sys/FastChat
-
+- *PandaLM*: https://github.com/dandelionsllm/pandallm , looks like they finetuned on more precise data
 
 
 ## GPT4
