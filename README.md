@@ -24,6 +24,21 @@
 - *LLaVA*: https://llava.hliu.cc/
 - *MiniGPT4*: https://github.com/Vision-CAIR/MiniGPT-4
 
+## CodeGen
+
+*Papers on how to generate code*
+
+- *CodeGen2*: https://github.com/salesforce/CodeGen2
+
+
+## Typical Papers
+
+*papers you should read about LLM*
+
+- (What Language Model Architecture and Pretraining
+Objective Work Best for Zero-Shot Generalization?)[https://arxiv.org/pdf/2204.05832.pdf]
+- (CodeGen2: Lessons for Training LLMs on Programming and Natural Languages)[https://arxiv.org/abs/2305.02309]
+
 
 ## LLM Deployment
 
